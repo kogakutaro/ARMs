@@ -1,0 +1,2 @@
+LR_ARMs
+-DCATKIN_DEVEL_PREFIX=/home/kogaku/hogehoge_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kogaku/hogehoge_ws/install -G Unix Makefiles

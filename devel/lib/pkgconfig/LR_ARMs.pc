@@ -1,0 +1,8 @@
+prefix=/home/kogaku/hogehoge_ws/devel
+
+Name: LR_ARMs
+Description: Description of LR_ARMs
+Version: 0.0.0
+Cflags: -I/home/kogaku/hogehoge_ws/devel/include
+Libs: -L/home/kogaku/hogehoge_ws/devel/lib 
+Requires: 
